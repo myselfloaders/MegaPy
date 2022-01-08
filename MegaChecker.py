@@ -1,4 +1,4 @@
-from mega import Mega
+
 import requests # For making web requests
 from multiprocessing import Pool # Multi-Threading
 from multiprocessing import freeze_support # Windows Support
